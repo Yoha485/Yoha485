@@ -28,9 +28,11 @@ const aboutMe = {
 
 <p>
   <a href="https://www.linkedin.com/in/anton-morozov-0aba38226/?locale=pl_PL">
-     My Linkedin Page
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anton's LinkedIn Profile" height="40" width="40">
   </a>
+  <a>
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Anton's LinkedIn Profile" height="40" width="40"> 
+  <a/>
 </p>
 
 </br></br>
