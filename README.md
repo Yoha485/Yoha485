@@ -30,9 +30,14 @@ const aboutMe = {
   <a href="https://www.linkedin.com/in/anton-morozov-0aba38226/?locale=pl_PL">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anton's LinkedIn Profile" height="40" width="40">
   </a>
-  <a>
+   
+  <a href="https://www.instagram.com/wme_music/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Anton's LinkedIn Profile" height="40" width="40"> 
   <a/>
+     
+  <a href="http://vk.com/id175412617">
+    <img src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="Anton's VK Profile" height="40" width="40"> 
+  <a/>   
 </p>
 
 </br></br>
