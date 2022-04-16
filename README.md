@@ -1,3 +1,5 @@
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
 <p><em>A bachelor student at <a href="https://www.polsl.pl/en/">Silesian University of Technology</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
