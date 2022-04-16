@@ -17,8 +17,7 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express", "NestJS"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash"]
       },
       databases: ["MongoDB", "MySQL", "Postgres"],
    },
