@@ -27,7 +27,8 @@ const aboutMe = {
 <h2>You can reach me at :alien:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+  <a href="https://www.linkedin.com/in/anton-morozov-0aba38226/?locale=pl_PL">
+     My Linkedin Page
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 </p>
