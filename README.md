@@ -37,7 +37,11 @@ const aboutMe = {
      
   <a href="http://vk.com/id175412617">
     <img src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="Anton's VK Profile" height="40" width="40"> 
-  <a/>   
+  <a/>  
+     
+  <a href="https://mail.google.com/mail/u/?authuser=antonmorozoff64@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Anton's VK Profile" height="40" width="40"> 
+  <a/>    
 </p>
 
 </br></br>
