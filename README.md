@@ -1,5 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/Yoha485/Yoha485/main/base_image.jpg"/> -->
-![Images-with-rounded-corners-and-shadow](https://raw.githubusercontent.com/Yoha485/Yoha485/main/base_image.jpg)
+<img src="https://github.com/Yoha485/Yoha485/blob/main/base_image.png"/>
 
 <p><em>A bachelor student at <a href="https://www.polsl.pl/en/">Silesian University of Technology</a>, majoring in Computer Science. 😊</br>
 </em></p>
