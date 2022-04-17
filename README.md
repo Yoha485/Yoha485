@@ -18,6 +18,9 @@ const aboutMe = {
          js: ["Node", "Express", "NestJS"],
          misc: ["Bash"]
       },
+      dataScience: {
+         python: ["Tensorflow", "PyTorch"]
+      },
       databases: ["MongoDB", "MySQL", "Postgres"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
