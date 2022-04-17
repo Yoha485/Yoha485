@@ -26,7 +26,7 @@ const aboutMe = {
 ```
 </br></br>
 
-<h2>You can reach me at :alien:</h2>
+<h2>You can reach me at 🖋️:</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/anton-morozov-0aba38226/?locale=pl_PL">
