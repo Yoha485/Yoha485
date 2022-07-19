@@ -10,12 +10,12 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Webix"],
          css: ["Tailwind", "Material UI", "Styled Components"]
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express", "NestJS"],
+         js: ["Next", "Express", "NestJS"],
          misc: ["Bash"]
       },
       dataScience: {
@@ -23,11 +23,15 @@ const aboutMe = {
       },
       databases: ["MongoDB", "MySQL", "Postgres"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Software Developer at Multiparts"],
    challenge: "Perform for a lot of people",
 };
 ```
 </br></br>
+
+<a href="https://morozov-protfolio.netlify.app/">
+   <h1>✨My Shiny Portfolio✨</h1>
+</a>
 
 <h2>You can reach me at 🖋️:</h2>
 
