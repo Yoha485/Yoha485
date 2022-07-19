@@ -29,9 +29,13 @@ const aboutMe = {
 ```
 </br></br>
 
-<a href="https://morozov-protfolio.netlify.app/">
-   <h1>✨My Shiny Portfolio✨</h1>
-</a>
+<div>
+   <a href="https://morozov-protfolio.netlify.app/">
+      <h1>✨My Shiny Portfolio✨</h1>
+   </a>
+</div>
+
+</br></br>
 
 <h2>You can reach me at 🖋️:</h2>
 
