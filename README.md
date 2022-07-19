@@ -1,3 +1,11 @@
+<p>
+   <a href="https://morozov-protfolio.netlify.app/">
+      <h1>✨Click Here To Visit My Shiny Portfolio Website✨</h1>
+   </a>
+</p>
+
+</br>
+
 <img src="https://github.com/Yoha485/Yoha485/blob/main/base_image.png"/>
 
 <p><em>A bachelor student at <a href="https://www.polsl.pl/en/">Silesian University of Technology</a>, majoring in Computer Science</br>
@@ -27,14 +35,6 @@ const aboutMe = {
    challenge: "Perform for a lot of people",
 };
 ```
-</br></br>
-
-<div>
-   <a href="https://morozov-protfolio.netlify.app/">
-      <h1>✨My Shiny Portfolio✨</h1>
-   </a>
-</div>
-
 </br></br>
 
 <h2>You can reach me at 🖋️:</h2>
