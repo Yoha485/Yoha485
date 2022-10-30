@@ -1,6 +1,6 @@
 <p>
-   <a href="https://morozov-protfolio.netlify.app/">
-      <h1>✨Click Here To Visit My Shiny Portfolio Website✨</h1>
+   <a href="https://morozov-anton.vercel.app/">
+      <h1>✨Click Here To Visit My Portfolio✨</h1>
    </a>
 </p>
 
