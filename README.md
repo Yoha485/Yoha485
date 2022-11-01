@@ -16,19 +16,21 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
+   code: [TypeScript, JavaScript, HTML, CSS, Python, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Webix"],
+         js: ["React", "Next", "Astro", "Webix"],
          css: ["Tailwind", "Material UI", "Styled Components"]
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Next", "Express", "NestJS"],
+         js: ["Express", "NestJS"],
          misc: ["Bash"]
       },
       dataScience: {
-         python: ["Tensorflow", "PyTorch"]
+         libraries: ["Numpy", "Pandas", "Matplotlib"],
+         frameworks: ["Tensorflow", "PyTorch"],
+         dashboard: ["Excel", "PowebBI"]
       },
       databases: ["MongoDB", "MySQL", "Postgres"],
    },
