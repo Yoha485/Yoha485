@@ -52,7 +52,7 @@ const aboutMe = {
   &nbsp;
      
   <a href="https://mail.google.com/mail/u/?authuser=antonmorozoff64@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Anton's VK Profile" height="40" width="40"> 
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Anton's VK Profile" height="40" width="40"> 
   <a/>    
 </p>
 
