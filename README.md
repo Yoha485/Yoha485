@@ -1,6 +1,6 @@
 <p>
       <h1>
-          <a href="https://morozov-anton.vercel.app/">
+          <a href="https://anton-morozov.vercel.app/">
          ✨Click Here To Visit My Portfolio✨  </a>
       </h1>
 </p>
@@ -9,22 +9,23 @@
 
 <img src="https://github.com/Yoha485/Yoha485/blob/main/base_image.png"/>
 
-<p><em>A bachelor student at <a href="https://www.polsl.pl/en/">Silesian University of Technology</a>, majoring in Computer Science</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [TypeScript, JavaScript, HTML, CSS, Python, Java, C++],
+   location: 'Warsaw, Poland',
+   code: [TypeScript, JavaScript, HTML, CSS, Python, Java, C#],
    technologies: {
       frontEnd: {
-         js: ["React", "Next", "Astro", "Webix"],
-         css: ["Tailwind", "Material UI", "Styled Components"]
+         libraries: ["React", "Astro", "Webix", "Vue"],
+         bundlers: ["Webpack", "esbuild"],
+         frameworks: ["Next.js"],
+         css: ["Tailwind", "Styled Components", "SCSS"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Express", "NestJS"],
+         frameworks: ["Java Spring Boot", ".NET", "Express", "NestJS"],
          misc: ["Bash"]
       },
       dataScience: {
@@ -34,7 +35,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "MySQL", "Postgres"],
    },
-   currentOccupation: ["Software Developer at Multiparts"],
+   currentOccupation: ["Software Developer"],
    challenge: "The samurai has no purpose",
 };
 ```
@@ -42,8 +43,10 @@ const aboutMe = {
 
 <h2>You can reach me at 🖋️:</h2>
 
+
+
 <p>
-  <a href="https://www.linkedin.com/in/anton-morozov-0aba38226/?locale=pl_PL">
+  <a href="https://www.linkedin.com/in/anton-morozov-0aba38226/?locale=pl_PL" class="margin-top: 500px;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anton's LinkedIn Profile" height="40" width="40">
   </a>
   &nbsp;
